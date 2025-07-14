@@ -1,7 +1,7 @@
 # Brain Architecture Implementation - Project 2.2
 
-**Owner:** Chi N. Nguyen  
-**Project:** AI @ DSCubed Student Club - Project 2.2  
+**Owner:** Chi Nguyen  
+**Project:** AI @ DSCubed - Project 2.2  
 **Implementation:** Comprehensive Medallion Architecture with RAG vs Context Dumping Analysis  
 
 ## Overview
